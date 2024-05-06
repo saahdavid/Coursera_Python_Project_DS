@@ -1,4 +1,14 @@
-# Coursera - Python Project for Data Science
+# Python Project for Data Science - `Coursera`
 
-This culminating project, part of the Python Project for Data Science course on Coursera, encompasses a broad spectrum of skills beyond Python programming. 
-It delves into the realms of data science, web scraping, and harnessing libraries such as pandas, requests, yfinance, BeautifulSoup, and plotly, among others.
+Final Project: Analyzing Stock Performance and Building a Dashboard
+
+
+This project, the culmination of my journey through the Python Project for Data Science course on Coursera, extends far beyond Python coding. It explores the realms of:
+
+- Data Science
+- Data Analysis
+- Python Programming
+- Pandas
+- Jupyter Notebooks
+
+Additionally, it involves web scraping and utilizes various libraries including requests, yfinance, BeautifulSoup, and plotly.
